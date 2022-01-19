@@ -1,4 +1,4 @@
-# Curso-de-Solana-para-Developers (Notas)
+# 📝 Curso-de-Solana-para-Developers (Notas)
 
 Profesora Carolina Velásquez
 @kornatis
